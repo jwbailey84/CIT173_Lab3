@@ -1,0 +1,9 @@
+total 28
+drwxrwxr-x 2 jb   jb   4096 Feb  1 03:19 .
+drwxr-xr-x 6 jb   jb   4096 Feb  1 03:02 ..
+-rw-r--r-- 1 root root    0 Feb  1 03:19 my-files.txt
+-rw-r--r-- 1 root root  817 Feb  1 03:18 my-phonebook.txt
+-rw------- 1 root root  416 Feb  1 03:07 phonebook1.txt
+-rw------- 1 root root  401 Feb  1 03:08 phonebook2.txt
+-rw------- 1 root root  288 Jan 30 01:02 phonelisting1.txt
+-rw------- 1 root root  286 Jan 30 01:02 phonelisting2.txt
